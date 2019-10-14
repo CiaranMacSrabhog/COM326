@@ -2,8 +2,8 @@
 * Main.cpp
 *
 * Version information
-* Author: Dr. Shane Wilson
-* Date:25/09/2017
+* Author: Ciaran Mcstravick
+* Date:
 * Description: Solution to week 1 Collatz challenge
 *
 * Copyright notice
