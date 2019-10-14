@@ -2,8 +2,8 @@
 * Email.cpp
 *
 * Version information
-* Author: Dr. Shane Wilson & Dr. Effirul Ramlan
-* Date: 29/09/2017 -- Modified: 29/09/2019
+* Author: Ciaran Mcstravick
+* Date: 
 * Description: Solution to the check for valid emails challenge
 * Copyright notice
 */
