@@ -2,8 +2,8 @@
 * FizzBuzz.cpp
 *
 * Version information
-* Author: Dr. Shane Wilson
-* Date:17/09/2018
+* Author: Ciaran Mcstravick
+* Date:
 * Description: Solution to week 1 FizzBuzz challenge
 *
 * Copyright notice
