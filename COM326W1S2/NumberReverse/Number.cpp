@@ -2,7 +2,7 @@
 * Number.cpp
 *
 * Version information
-* Author: Dr. Shane Wilson
+* Author: Ciaran Mcstravick
 * Date:25/09/2017
 * Description: Solution to week 1 number reverse challenge
 *
