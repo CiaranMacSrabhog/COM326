@@ -2,7 +2,7 @@
 * MarsExploration.cpp
 *
 * Version information
-* Author: Dr. Effirul Ramlan
+* Author: Ciaran Mcstravick
 * Date: 29/09/2019
 * Description: Solution to the Mars Exploration problem
 * Copyright notice
